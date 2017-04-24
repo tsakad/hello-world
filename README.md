@@ -1,2 +1,5 @@
 # hello-world
-Just first repository
+
+
+
+nwm w sumie
